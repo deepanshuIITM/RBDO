@@ -1,6 +1,6 @@
 # RBDO
 **Preliminary Requirements:**
-1. Install _Surrogate Toolbox 3.0 _ [1] by Dr. Viana
+1. Install _Surrogate Toolbox 3.0_ [1] by Dr. Viana
 
 2. log-TPNT idea has been borrowed from [2].
 
