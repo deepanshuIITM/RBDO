@@ -1,10 +1,13 @@
 # RBDO
+## Reliability-based Design Optimization 
+
+
 **Preliminary Requirements:**
 1. Install _Surrogate Toolbox 3.0_ [1] by Dr. Viana
 
 2. log-TPNT idea has been borrowed from [2].
 
-Reliability-based Design Optimization 
+
 
 
 ![Tail_GPD](https://github.com/deepanshuIITM/RBDO/assets/137225940/529e629a-b1a6-42ce-a218-ff9e81c63b84)
